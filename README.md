@@ -2,7 +2,7 @@
   <h1 align="center">Calculator</h1>
 </p>
 
-# Layout 🛰
+# Preview 🛰
 
 <p align="center">
   <img alt="Calculator" src=https://media.giphy.com/media/hGWDGkpFhr6tHN077E/giphy.gif>
